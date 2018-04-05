@@ -1,0 +1,73 @@
+{
+  "_from": "cordova-plugin-appinfo@^2.1.2",
+  "_id": "cordova-plugin-appinfo@2.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-jy+J74Hq/d+Luc3Btf3TXb+zPQA=",
+  "_location": "/cordova-plugin-appinfo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-appinfo@^2.1.2",
+    "name": "cordova-plugin-appinfo",
+    "escapedName": "cordova-plugin-appinfo",
+    "rawSpec": "^2.1.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.1.2"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-appinfo/-/cordova-plugin-appinfo-2.1.2.tgz",
+  "_shasum": "8f2f89ef81eafddf8bb9cdc1b5fdd35dbfb33d00",
+  "_spec": "cordova-plugin-appinfo@^2.1.2",
+  "_where": "/Users/julienfournier/Projets/MonApp",
+  "author": {
+    "name": "Dan Michael O. Heggø",
+    "url": "https://github.com/danmichaelo"
+  },
+  "bugs": {
+    "url": "https://github.com/danmichaelo/cordova-plugin-appinfo/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Justin Yip",
+      "url": "https://github.com/yezhiming"
+    },
+    {
+      "name": "Thomas Mullaly",
+      "url": "https://github.com/thomas-mullaly"
+    },
+    {
+      "name": "Michele Belluco",
+      "url": "https://github.com/vash15"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-appinfo",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin to access app info (version number, identifier, build)",
+  "homepage": "https://github.com/danmichaelo/cordova-plugin-appinfo#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-appinfo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmichaelo/cordova-plugin-appinfo.git"
+  },
+  "version": "2.1.2"
+}

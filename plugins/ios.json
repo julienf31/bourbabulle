@@ -1,0 +1,50 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-appinfo": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-media": {
+      "MICROPHONE_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.julien.MonApp"
+    }
+  }
+}
